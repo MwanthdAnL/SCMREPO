@@ -1,3 +1,5 @@
 Thisline was written on Github.com
-
 This is updated text!
+This is line was added to verify Jenkins auto-build was acheived.
+We first save without setting auto-build property, check to make sure changes were not updated in the Jenkins repostory \
+and then after setting the trigger auto-build we go back to notice changes occured without building the projec manually.
